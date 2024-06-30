@@ -1,3 +1,6 @@
+# Fork
+(In Progress) Convert to directly importable unity package file structure format with semantic versioning.
+
 # UnityHexGrid
 A hex grid generation tool, for use in unity. Much of the hex logic is drawn from [Red Blob Games](http://www.redblobgames.com/grids/hexagons/). I made this because I initially struggled with the implementation so now you don't have to. Feel free to leave any feedback or suggestions, I will consider implementing suggestions that I think are generally useful to all users.
 
